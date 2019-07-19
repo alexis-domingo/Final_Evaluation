@@ -1,0 +1,23 @@
+
+Exercise 2: « The trainee » 5 points
+
+You are responsible for a trainee. He must get an user list from a database. He also must
+add the ability to add new users with a form.
+
+The main script is composed of 2 parts:
+
+- The user list and their informations
+- A form to add a new user
+
+The trainee begins with PHP development. He doesn’t indent code and do not comment
+code either. As his guide, you must help him and correct his code to make it fully functional.
+The code must also be indented.
+
+Steps:
+1. Download the files at this address: http://wf3.axessweb.io/evaluations/php-sql/evaluation_docs.zip
+
+2. Deploy index.php and connect.php files on your local server. Don’t forget to import the SQL
+script users-install.sql. The script will create a new database with a table named “users”.
+
+3. Help your trainee to debug his code, correct his mistakes and make it functional. */
+

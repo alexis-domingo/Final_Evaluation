@@ -1,0 +1,10 @@
+Exercice 3: « Let’s clean! » 4 points
+
+In this exercise, you must create an Ajax form. You can use Ajax with JavaScript or jQuery.
+The form will allow to add a new vehicle in the database with the following fields:
+- Brand
+- Model
+- Year
+- Color
+The form treatment will be made in ajax. A message will display if the data entry has failed or
+was a success
